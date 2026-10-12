@@ -1,0 +1,4 @@
+export LIGHTONOCR_BASE_URL="http://69.8.146.173:11337/v1"
+export LIGHTONOCR_MODEL="Vishva007/LightOnOCR-3-4B-W4A16-AutoRound"
+
+lightonocr viewer --host 0.0.0.0 --port 8000
